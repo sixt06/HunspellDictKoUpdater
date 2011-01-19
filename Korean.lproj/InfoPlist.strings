@@ -1,0 +1,6 @@
+/* Localized versions of Info.plist keys */
+@"Hunspell Korean Dictionary Updater" = @"Hunspell 한글 사전 업데이터"
+@"Version" = @"버젼"
+@"Installed Version" = @"설치 버젼"
+@"Installed Date" = @"설치 일자"
+
